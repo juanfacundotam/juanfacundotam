@@ -1,4 +1,8 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## ¡Hola! 👋
+Bienvenido a mi GitHub! Mi nombre es Juan Facundo Tam y soy desarrollador FullStack.
+Aquí podras ver mis proyectos e información adicional de mi desempeño como programador.
+Ante cualquier consulta, no dudes en contactarme!
+
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
