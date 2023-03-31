@@ -37,13 +37,13 @@ Ante cualquier consulta, no dudes en contactarme!
   
 </div>
 
----
+
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfacundotam&theme=radical)
+
 <div>
   <a href="https://github.com/juanfacundotam">
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfacundotam&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfacundotam&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
