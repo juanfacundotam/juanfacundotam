@@ -47,7 +47,7 @@ Ante cualquier consulta, no dudes en contactarme!
 </div>
 
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfacundotam &theme=radical)
 
 
 
