@@ -6,7 +6,7 @@ Ante cualquier consulta, no dudes en contactarme!
 
 ---
 
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="start"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Facundo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Facundo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
