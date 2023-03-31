@@ -2,7 +2,7 @@
 Bienvenido a mi GitHub! Mi nombre es Juan Facundo Tam y soy desarrollador FullStack.
 Aquí podrás ver mis proyectos e información adicional de mi desempeño como programador.
 Ante cualquier consulta, no dudes en contactarme!
-  ##
+  2#
 ---
   ##
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
