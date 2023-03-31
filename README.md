@@ -4,6 +4,8 @@ Bienvenido a mi GitHub! Mi nombre es Juan Facundo Tam y soy desarrollador FullSt
 Aquí podrás ver mis proyectos e información adicional de mi desempeño como programador.
 Ante cualquier consulta, no dudes en contactarme!
 
+---
+
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Facundo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
