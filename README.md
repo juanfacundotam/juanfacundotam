@@ -55,7 +55,7 @@ Ante cualquier consulta, no dudes en contactarme!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfacundotam&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/juanfacundotam/juanfacundotam/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/juanfacundotam/juanfacundotam/github-contribution-grid-snake.svg)
 
 ---
 
