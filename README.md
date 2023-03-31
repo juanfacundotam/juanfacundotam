@@ -29,6 +29,7 @@ Ante cualquier consulta, no dudes en contactarme!
   <img align="center" alt="Facundo-Linux" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/linux-original.svg">
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfacundotam&theme=radical)
 
 <div> 
 
@@ -47,7 +48,7 @@ Ante cualquier consulta, no dudes en contactarme!
 </div>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfacundotam&theme=radical)
+
 
 
 
