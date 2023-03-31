@@ -33,23 +33,8 @@ Ante cualquier consulta, no dudes en contactarme!
 ---
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfacundotam&layout=compact&langs_count=7&theme=radical"/>
-<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfacundotam&layout=compact&langs_count=7&theme=radical"/>
 
-  <a href="https://www.linkedin.com/in/juan-facundo-tam-12b943223/" target="_blank"></a> 
-
-</div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
----
-
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
-
-<div>
-  <a href="https://github.com/juanfacundotam">
-
-  
-</div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ---
 
 
