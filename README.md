@@ -2,7 +2,9 @@
 Bienvenido a mi GitHub! Mi nombre es Juan Facundo Tam y soy desarrollador FullStack.
 Aquí podrás ver mis proyectos e información adicional de mi desempeño como programador.
 Ante cualquier consulta, no dudes en contactarme!
+  ##
 ---
+  ##
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Facundo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +15,7 @@ Ante cualquier consulta, no dudes en contactarme!
   <img align="center" alt="Facundo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Facundo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+ ##
 ---
   ##
 <div> 
