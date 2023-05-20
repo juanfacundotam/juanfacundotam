@@ -32,8 +32,6 @@ Ante cualquier consulta, no dudes en contactarme!
 
 ---
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfacundotam&layout=compact&langs_count=7&theme=radical"/>
 
 ---
 
