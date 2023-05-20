@@ -17,11 +17,13 @@ Ante cualquier consulta, no dudes en contactarme!
   <img align="center" alt="Facundo-Express" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/express-original.svg">
   <img align="center" alt="Facundo-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/postgresql-original.svg">
   <img align="center" alt="Facundo-Sequelize" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/sequelize-original.svg">
+    <img align="center" alt="Facundo-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/mongodb-original.svg">
   <img align="center" alt="Facundo-Jest" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/jest-plain.svg">
 
   <img align="center" alt="Facundo-HTML" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/html5-original.svg">
   <img align="center" alt="Facundo-CSS" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/css3-original.svg">
   <img align="center" alt="Facundo-Npm" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/npm-original-wordmark.svg">
+      <img align="center" alt="Facundo-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/tailwindcss-plain.svg">
   <img align="center" alt="Facundo-Sass" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/sass-original.svg">
   <img align="center" alt="Facundo-Less" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/less-plain-wordmark.svg">
   <img align="center" alt="Facundo-C++" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/cplusplus-original.svg">
