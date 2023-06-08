@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-Bienvenido a mi GitHub! ¡Hola, soy Juan Facundo Tam! Soy un apasionado desarrollador FullStack que decidió dar un giro vocacional desde la psicología hacia la informática para dedicarme a lo que realmente me apasiona: la programación. Me especializado en JavaScript, React, Node.js, MongoDB y PostgreSQL. Además, tengo experiencia en el uso de tecnologías como Tailwind, Sass, Less, Next.js y React Native, entre otras. Actualmente, ocupo el cargo de Full Stack Developer en Social Media Lab.
+Bienvenido a mi GitHub! Mi nombre es Juan Facundo Tam. Soy un apasionado desarrollador FullStack que decidió dar un giro vocacional desde la psicología hacia la informática para dedicarme a lo que realmente me apasiona: la programación. Me especializado en JavaScript, React, Node.js, MongoDB y PostgreSQL. Además, tengo experiencia en el uso de tecnologías como Tailwind, Sass, Less, Next.js y React Native, entre otras. Actualmente, ocupo el cargo de Full Stack Developer en Social Media Lab.
 
 Entre mis cualidades principales se encuentran las de ser aplicado, perseverante y creativo. Me destaco en la resolución de problemas mediante la búsqueda activa de soluciones y alternativas. Además, poseo una gran apertura, interés y predisposición para las dinámicas de trabajo grupal, ya que las considero fundamentales para mi desarrollo tanto profesional como personal. ¡Voy siempre hacia adelante con determinación y con muchas ganas de aprender, crecer y progresar! 🚀  
 
