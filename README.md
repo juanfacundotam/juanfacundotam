@@ -11,7 +11,7 @@ Entre mis cualidades, destaco por mi capacidad para resolver problemas de manera
 <h3 align="start"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Facundo-Js" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/javascript-original.svg">
-  <img align="center" alt="Facundo-Js" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/javascript-original.svg">
+  <img align="center" alt="Facundo-Ts" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/typescript-plain.svg">
   <img align="center" alt="Facundo-React" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/react-original.svg">
   <img align="center" alt="Facundo-ReactNative" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/native.webp">
   <img align="center" alt="Facundo-Angular" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/angularjs-plain.svg">
@@ -22,6 +22,7 @@ Entre mis cualidades, destaco por mi capacidad para resolver problemas de manera
   <img align="center" alt="Facundo-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/postgresql-original.svg">
   <img align="center" alt="Facundo-Sequelize" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/sequelize-original.svg">
     <img align="center" alt="Facundo-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/mongodb-original.svg">
+    <img align="center" alt="Facundo-Firebase" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/firebase-plain.svg">
   <img align="center" alt="Facundo-Jest" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/jest-plain.svg">
 
   <img align="center" alt="Facundo-HTML" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/html5-original.svg">
