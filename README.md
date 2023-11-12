@@ -13,8 +13,8 @@ Entre mis cualidades, destaco por mi capacidad para resolver problemas de manera
   <img align="center" alt="Facundo-Js" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/javascript-original.svg">
   <img align="center" alt="Facundo-Js" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/javascript-original.svg">
   <img align="center" alt="Facundo-React" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/react-original.svg">
-  <img align="center" alt="Facundo-React" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/react-original.svg">
-  <img align="center" alt="Facundo-React" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/react-original.svg">
+  <img align="center" alt="Facundo-ReactNative" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/native.webp">
+  <img align="center" alt="Facundo-Angular" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/angularjs-plain.svg">
   <img align="center" alt="Facundo-Redux" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/redux-original.svg">
   <img align="center" alt="Facundo-Next" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/nextjs-original.svg">
   <img align="center" alt="Facundo-Node" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/nodejs-original.svg">
@@ -26,9 +26,8 @@ Entre mis cualidades, destaco por mi capacidad para resolver problemas de manera
 
   <img align="center" alt="Facundo-HTML" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/html5-original.svg">
   <img align="center" alt="Facundo-CSS" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/css3-original.svg">
-  <img align="center" alt="Facundo-CSS" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/tailwindcss-plain.svg">
+  <img align="center" alt="Facundo-Tailwind" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/tailwindcss-plain.svg">
   <img align="center" alt="Facundo-Npm" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/npm-original-wordmark.svg">
-      <img align="center" alt="Facundo-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/tailwindcss-plain.svg">
   <img align="center" alt="Facundo-Sass" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/sass-original.svg">
   <img align="center" alt="Facundo-Less" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/less-plain-wordmark.svg">
   <img align="center" alt="Facundo-C++" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/cplusplus-original.svg">
