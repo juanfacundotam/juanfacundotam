@@ -1,8 +1,8 @@
 ## ¡Hola! 👋
 
-Bienvenido a mi GitHub! Mi nombre es Juan Facundo Tam. Soy un apasionado desarrollador FullStack que decidió dar un giro vocacional desde la psicología hacia la informática para dedicarme a lo que realmente me apasiona: la programación. Me especializado en JavaScript, React, Node.js, MongoDB y PostgreSQL. Además, tengo experiencia en el uso de tecnologías como Tailwind, Sass, Less, Next.js y React Native, entre otras. Actualmente, ocupo el cargo de Full Stack Developer en Social Media Lab.
+Bienvenido a mi GitHub!¡Hola! Soy Juan Facundo Tam, un apasionado desarrollador Fullstack especializado en JavaScript, Typescript, React, Angular, Node.js, Express, MongoDB, PostgreSQL, React Native, Firebase y otras tecnologías. Actualmente, desempeño el cargo de Full Stack Developer en Social Media Lab AI, donde contribuí con el desarrollo de aplicaciones robustas para empleados y clientes. 
 
-Entre mis cualidades principales se encuentran las de ser aplicado, perseverante y creativo. Me destaco en la resolución de problemas mediante la búsqueda activa de soluciones y alternativas. Además, poseo una gran apertura, interés y predisposición para las dinámicas de trabajo grupal, ya que las considero fundamentales para mi desarrollo tanto profesional como personal. ¡Voy siempre hacia adelante con determinación y con muchas ganas de aprender, crecer y progresar! 🚀  
+Entre mis cualidades, destaco por mi capacidad para resolver problemas de manera creativa, por mi compromiso y por mi gran interés en el trabajo en equipo. Disfruto enfrentando desafíos y siempre estoy listo para aprender y crecer profesionalmente. ¡Voy siempre hacia adelante con determinación y con muchas ganas de aprender, crecer y progresar!🚀  
 
 
 
@@ -11,6 +11,9 @@ Entre mis cualidades principales se encuentran las de ser aplicado, perseverante
 <h3 align="start"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Facundo-Js" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/javascript-original.svg">
+  <img align="center" alt="Facundo-Js" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/javascript-original.svg">
+  <img align="center" alt="Facundo-React" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/react-original.svg">
+  <img align="center" alt="Facundo-React" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/react-original.svg">
   <img align="center" alt="Facundo-React" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/react-original.svg">
   <img align="center" alt="Facundo-Redux" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/redux-original.svg">
   <img align="center" alt="Facundo-Next" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/nextjs-original.svg">
@@ -23,6 +26,7 @@ Entre mis cualidades principales se encuentran las de ser aplicado, perseverante
 
   <img align="center" alt="Facundo-HTML" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/html5-original.svg">
   <img align="center" alt="Facundo-CSS" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/css3-original.svg">
+  <img align="center" alt="Facundo-CSS" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/tailwindcss-plain.svg">
   <img align="center" alt="Facundo-Npm" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/npm-original-wordmark.svg">
       <img align="center" alt="Facundo-Postgresql" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/tailwindcss-plain.svg">
   <img align="center" alt="Facundo-Sass" height="30" width="40" src="https://github.com/juanfacundotam/juanfacundotam/blob/main/devIcons/sass-original.svg">
